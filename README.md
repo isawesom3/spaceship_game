@@ -4,15 +4,15 @@
 > Open this page at [https://isawesom3.github.io/spaceship_game/](https://isawesom3.github.io/spaceship_game/)
 
 
-## Edit this project ![Build status badge](https://github.com/isawesom3/spaceship_game/workflows/MakeCode/badge.svg)
+## Edit this project
 
-To edit this repository in MakeCode.
+To edit this repository in MakeCode:
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/isawesom3/spaceship_game** and click import
 
-##How to play
+## How to play
 
 In the picture we can see a little consle.
 To move around, use the joystick (on the left). 
@@ -22,8 +22,7 @@ To shoot missles, press the A button (on the right).
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+a picture of blocks
 
 ![A rendered view of the blocks](https://github.com/isawesom3/spaceship_game/raw/master/.github/makecode/blocks.png)
 >
