@@ -24,5 +24,5 @@ To shoot missles, press the A button (on the right).
 
 a picture of blocks
 
-![A rendered view of the blocks](https://github.com/isawesom3/spaceship_game/raw/master/.github/makecode/blocks.png)
->
+![Screenshot 2024-07-12 5 43 20 PM](https://github.com/user-attachments/assets/3cb24c2f-6707-4ffa-8376-a7a694564e6e)
+
